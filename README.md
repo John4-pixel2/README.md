@@ -1,7 +1,6 @@
 # README.md
 
 <div style="text-align: center">
-  <img width="100%" src="./assets/forest.png" />
 </div>
 
 <h1 align="center">Hello - Hallo - Glad to see you here!</h1>
@@ -25,6 +24,6 @@
     width="200"
     style="margin-right: 100px"
     align="center"
-    src="./assets/me.png"
+    src="sunlight-landscape-forest-mountains-lake-nature-reflection-clouds-morning-mist-national-park-valley-mountain-pass-wilderness-Alps-ridge-cloud-tree-autumn-leaf-mountain-meadow-atmospheric-phenomenon-woody-plant-mountainous-landforms-landform.jpg"
   />
 </div>
